@@ -39,5 +39,14 @@ form{
   width: 50px;
   margin: auto;
   margin-top: 15px;
+  color: white;
 
+}
+h3{
+  font-size: 12px;
+  margin: auto;
+  margin-left: 37px;
+  text-align: left;
+  color: white;
+  
 }
